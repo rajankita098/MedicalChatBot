@@ -90,13 +90,9 @@ Submit a Pull Request 🚀
 
 👨‍💻 Author
 
-👋 Sumit Raj
-🎓 B.Tech CSE @ IIITG
-📧 k.rajsumit456@gmail.com
-
-🔗 LinkedIn
-
-💻 GitHub
+👋 Ankita Raj
+🎓 B.Tech CSE @ JIIT Noida
+📧 rajankita098@gmail.com
 
 📜 License
 
